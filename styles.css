@@ -108,3 +108,9 @@ blockquote {
 .actionp1 {
     margin-top: 0;
 }
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 40px;
+}
